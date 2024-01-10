@@ -1,0 +1,9 @@
+1. go build github.com/cosmtrek/air    OR   go install github.com/cosmtrek/air@latest
+
+2. go build -mod=readonly github.com/cosmtrek/air
+
+3. air.exe
+
+4. Add air.exe to your `C:\Program Files\Go\bin` Folder
+
+5. Type or Run `air` in your terminal (e.g  air)
